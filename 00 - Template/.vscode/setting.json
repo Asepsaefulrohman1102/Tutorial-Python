@@ -1,0 +1,25 @@
+{
+    "python.languageServer": "Pylance",
+    "editor.fontSize": 24,
+    "window.zoomLevel": 1,
+    "terminal.integrated.fontSize": 24,
+    "workbench.colorTheme": "Noctis Minimus",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "all",
+    "editor.rulers": [
+        80
+    ],
+    "editor.minimap.enabled": false,
+    "editor.minimap.renderCharacters": true,
+    "editor.minimap.maxColumn": 120,
+    "editor.minimap.scale": 0.8,
+    "editor.minimap.size": "100%",
+    "editor.minimap.showSlider": "always",
+    "editor.minimap.showSliderControls": true,
+    "editor.minimap.renderIndicators": true,
+    "editor.minimap.renderLines": true,
+    "editor.minimap.useCtrlClickToCenter": true,
+    "editor.minimap.alwaysShowCharacters": true
+ 
+}
